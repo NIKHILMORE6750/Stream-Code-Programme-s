@@ -87,12 +87,3 @@ public class StreamPro {
 
     }
 }
-
-/*
-Benefits of Using the Stream API in Java:
-Declarative Style: Writing code with Stream API is usually more concise and expressive.
-Functional Operations: The Stream API allows for a more functional programming style, making it easier to compose operations.
-Lazy Evaluation: Intermediate operations are lazily evaluated, meaning they are not executed until a terminal operation (such as collect, forEach, reduce) is called.
-Parallel Processing: Streams can be processed in parallel with minimal effort, taking advantage of multi-core processors.
-Conclusion:
-The Java Stream API simplifies data processing, making your code more concise, readable, and easier to maintain. It allows you to perform complex operations like filtering, mapping, sorting, reducing, and more in a fluent, functional style, and can improve performance with parallel processing on large datasets.*/
